@@ -1,0 +1,23 @@
+{
+  "appid": "ttebb39d0e74bd040e07",
+  "projectname": "崇拜者逆袭",
+  "unity": {
+    "build": {
+      "webgl": "D:\\Unity Project\\DontKissMe\\CBZNXWebGL\\webgl_package-20251020_174103.zip",
+      "native": {
+        "il2cpp": "",
+        "apk": "",
+        "fullApk": ""
+      },
+      "instantGame": ""
+    },
+    "publishType": "2",
+    "starkSdkVersion": "Without StarkSDK",
+    "unityToolsVersion": null,
+    "unityEngineVersion": "2021.3.14f1c1",
+    "arch": "both"
+  },
+  "setting": {
+    "urlCheck": true
+  }
+}

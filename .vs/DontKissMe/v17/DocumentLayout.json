@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\DontKissMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\DontKissMe\\Assets\\AppMetrica\\AppMetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AppMetrica\\AppMetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\ui\\tags\\losepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tags\\losepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\ui\\itemprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\player\\playermove\\playerrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove\\playerrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\player\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\ui\\top\\toppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\top\\toppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\energy\\energysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\energy\\energysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\savemgr\\playerprfsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savemgr\\playerprfsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\gamemgr\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemgr\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\scripts\\energy\\energyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\energy\\energyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCF48D4-80D4-0744-E884-07242329B73C}|Unity.Services.Analytics.csproj|D:\\Unity Project\\DontKissMe\\library\\packagecache\\com.unity.services.analytics@4.2.0\\runtime\\analyticsserviceinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCF48D4-80D4-0744-E884-07242329B73C}|Unity.Services.Analytics.csproj|solutionrelative:library\\packagecache\\com.unity.services.analytics@4.2.0\\runtime\\analyticsserviceinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|D:\\Unity Project\\DontKissMe\\assets\\imagefiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B15767-6E40-FBDB-857B-11C9587DEF48}|Assembly-CSharp.csproj|solutionrelative:assets\\imagefiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\DontKissMe\\Assets\\TTSDK\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TTSDK\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\DontKissMe\\Assets\\TTSDK\\ByteGameAdManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TTSDK\\ByteGameAdManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppMetrica.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\AppMetrica\\AppMetrica.cs",
+              "RelativeDocumentMoniker": "Assets\\AppMetrica\\AppMetrica.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\AppMetrica\\AppMetrica.cs",
+              "RelativeToolTip": "Assets\\AppMetrica\\AppMetrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:56:28.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LosePanel.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\Tags\\LosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Tags\\LosePanel.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\Tags\\LosePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Tags\\LosePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:12:56.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemProgress.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\ItemProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemProgress.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\ItemProgress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemProgress.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:12:44.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerRotation.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Player\\PlayerMove\\PlayerRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove\\PlayerRotation.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Player\\PlayerMove\\PlayerRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove\\PlayerRotation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:12:10.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TopPanel.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\Top\\TopPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Top\\TopPanel.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\Top\\TopPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Top\\TopPanel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxAAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:25:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnergySystem.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Energy\\EnergySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Energy\\EnergySystem.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Energy\\EnergySystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Energy\\EnergySystem.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAhwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:57:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\GameMgr\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameMgr\\GameMgr.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\GameMgr\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameMgr\\GameMgr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:47:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerPrfsMgr.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\SaveMgr\\PlayerPrfsMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveMgr\\PlayerPrfsMgr.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\SaveMgr\\PlayerPrfsMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveMgr\\PlayerPrfsMgr.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:37:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnergyInfo.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Energy\\EnergyInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Energy\\EnergyInfo.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Energy\\EnergyInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Energy\\EnergyInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:31:48.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnalyticsServiceInstance.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Library\\PackageCache\\com.unity.services.analytics@4.2.0\\Runtime\\AnalyticsServiceInstance.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.services.analytics@4.2.0\\Runtime\\AnalyticsServiceInstance.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Library\\PackageCache\\com.unity.services.analytics@4.2.0\\Runtime\\AnalyticsServiceInstance.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.services.analytics@4.2.0\\Runtime\\AnalyticsServiceInstance.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDYAAADZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:01:24.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Player\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Car.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\Player\\Car.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwEEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:55:44.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:12:46.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cebianlan.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\TTSDK\\cebianlan.cs",
+              "RelativeDocumentMoniker": "Assets\\TTSDK\\cebianlan.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\TTSDK\\cebianlan.cs",
+              "RelativeToolTip": "Assets\\TTSDK\\cebianlan.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:55:45.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ByteGameAdManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\TTSDK\\ByteGameAdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TTSDK\\ByteGameAdManager.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\TTSDK\\ByteGameAdManager.cs",
+              "RelativeToolTip": "Assets\\TTSDK\\ByteGameAdManager.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAmwDEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:44:30.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageFiller.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\ImageFiller.cs",
+              "RelativeDocumentMoniker": "Assets\\ImageFiller.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\ImageFiller.cs",
+              "RelativeToolTip": "Assets\\ImageFiller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:35:20.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "D:\\Unity Project\\DontKissMe\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAkwKwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:23:42.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
